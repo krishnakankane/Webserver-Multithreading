@@ -50,5 +50,5 @@ Webserver/
 - Implement logging system
 - Add performance benchmarking
 
-👨‍💻 Author
+## 👨‍💻 Author
 Krishna Kankane
